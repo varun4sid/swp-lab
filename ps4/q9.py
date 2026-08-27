@@ -1,4 +1,4 @@
-"""
+""" TEMPLATE PATTERN
 Consider an Online Food Delivery System (Swiggy / Zomato).
 When a customer places an order, the system follows a fixed workflow,
 regardless of the restaurant:
